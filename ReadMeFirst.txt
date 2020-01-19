@@ -1,0 +1,1 @@
+Open cmd on root folder and run command as yarn install && yarn start
